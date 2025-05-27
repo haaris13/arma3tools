@@ -9,9 +9,21 @@
 - **.rpt file analyzer**: Filter and export errors
 - **.hpp syntax checker**: Automatically detect and fix syntax errors
 
-🚀 Created by *alharis / Pacific Island* – *No license, do what you want!*
+---
 
 ## 📷 Screenshots
-![Main Menu](banner_main.png)
-![RPT Analyzer](banner_rpt.png)
-![HPP Checker](banner_hpp.png)
+
+| Main Menu                       | RPT Log Analyzer                   | HPP Syntax Checker                 |
+|---------------------------------|-------------------------------------|-------------------------------------|
+| ![Main Menu](main.png)          | ![RPT Log Analyzer](logs1.png)      | ![HPP Syntax Checker](syntax.png)   |
+
+---
+
+## 🚀 Usage
+
+If you just want to use the tools, download the **Windows executable (`.exe`)** file from the repository’s **Releases** section and run it – no need to install Python!
+
+If you’d like to explore or modify the source code, make sure you have **Python 3.10 or later** installed. Clone the repository, then run:
+
+```bash
+python arma3stafftools.py

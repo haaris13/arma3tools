@@ -15,7 +15,7 @@
 
 | Main Menu                       | RPT Log Analyzer                   | HPP Syntax Checker                 |
 |---------------------------------|-------------------------------------|-------------------------------------|
-| ![Main Menu](main.png)          | ![RPT Log Analyzer](logs1.png)      | ![HPP Syntax Checker](syntax.png)   |
+| ![Main Menu](main.png)          | ![RPT Log Analyzer](logs1.PNG)      | ![HPP Syntax Checker](syntax.png)   |
 
 ---
 
